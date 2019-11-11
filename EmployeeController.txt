@@ -1,1 +1,2 @@
-this is the goood platform for versioning the project
+addEmployee(){
+}
